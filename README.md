@@ -25,6 +25,8 @@
   3. [ ] google
 
 ### Project details
-  1. Project name:
+  1. Project name:country animals
   2. Project summary:
+      1. pictures of animals
+      2. animals will have names of countries
   3. Project coordinator:
